@@ -1,6 +1,6 @@
 # Electrical Engineering Student @ University of Waterloo
 
-###Education 
+##Education 
 Candidate for Bachelor of Applied Science In Electrical and Electronics Engineering
 
 ### Work Experience
