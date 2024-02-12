@@ -4,11 +4,11 @@
 Candidate for Bachelor of Applied Science In Electrical and Electronics Engineering
 
 ### Work Experience
-**Software Engineering Intern @ Appy.Yo                Jan 2024 - Present**
+**Software Engineering Intern @ Appy.Yo                (_Jan 2024 - Present_)**
   - Some stuff
   - Some stuff
 
-**E-Commerce Advisor and Research Intern @ Ontario Chamber of Commerce   Jan 2024 - Present**
+**E-Commerce Advisor and Research Intern @ Ontario Chamber of Commerce   (_Jan 2024 - Present_)**
   - Some stuff
   - Some stuff
 
