@@ -2,7 +2,7 @@
 
 
 ### Education 
-  - Candidate for Bachelor of Applied Science In Electrical and Electronics Engineering
+  - Bachelor of Applied Science, Electrical and Electronics Engineering | University of Waterloo (_Sept. 2023 - Present _)
 
 ### Work Experience
 **Software Engineering Intern @ Appy.Yo                (_Jan 2024 - Present_)**
