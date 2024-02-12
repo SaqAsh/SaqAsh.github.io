@@ -1,4 +1,4 @@
-# Electrical Engineering Student @ University of Waterloo
+# Aspiring Engineer
 
 
 ### Education 
