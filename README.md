@@ -1,10 +1,14 @@
 # Aspiring Engineer
 
 
-### Education 
-**B.A.Sc, Electrical and Electronics Engineering | University of Waterloo (_Sept. 2023 - Present_)**
+#### Technical Skills:
+#### Libraries:
+#### Developer Tools: 
 
-### Work Experience
+## Education 
+B.A.Sc, Electrical and Electronics Engineering | University of Waterloo (_Sept. 2023 - Present_)
+
+## Work Experience
 **Software Engineering Intern @ Appy.Yo                (_Jan 2024 - Present_)**
   - Some stuff
   - Some stuff
@@ -13,5 +17,18 @@
   - Some stuff
   - Some stuff
 
-### Projects
+## Projects
+
+### WAKEUP!
+[Github]()
+
+### STUDY!
+[Github]()
+
+### SortSpectre
+[Github]()
+
+## Blog
+
+
 
