@@ -6,14 +6,14 @@
 #### Developer Tools: 
 
 ## Education 
-B.A.Sc, Electrical and Electronics Engineering | University of Waterloo (_Sept. 2023 - Present_)
+B.A.Sc, Electrical and Electronics Engineering | University of Waterloo ( _Sept. 2023 - Present_ )
 
 ## Work Experience
-**Software Engineering Intern @ Appy.Yo                (_Jan 2024 - Present_)**
+**Software Engineering Intern @ Appy.Yo                ( _Jan 2024 - Present_ )**
   - Some stuff
   - Some stuff
 
-**E-Commerce Advisor and Research Intern @ Ontario Chamber of Commerce   (_Jan 2024 - Present_)**
+**E-Commerce Advisor and Research Intern @ Ontario Chamber of Commerce   ( _Jan 2024 - Present_ )**
   - Some stuff
   - Some stuff
 
@@ -28,7 +28,7 @@ B.A.Sc, Electrical and Electronics Engineering | University of Waterloo (_Sept. 
 ### SortSpectre
 [Github]()
 
-## Blog
+
 
 
 
